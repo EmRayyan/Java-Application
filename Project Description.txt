@@ -1,0 +1,25 @@
+PROJECT NAME: EVENT MANAGEMENT SYSTEM
+
+REQUIREMENTS:
+1) SOFTWARE: NetBeans IDE 8.2 (because given MySQL drivers are only for the 8.2 version)
+https://archive.org/download/jdk-8u111-nb-8_2
+2) XAMPP for MySQL Databse
+https://www.apachefriends.org/download.html
+
+USER ACCOUNT:
+1) Email: abcxyz@gmail.com
+2) Password: #xyz1234
+
+ADMIN ACCOUNT:
+1) ID: air-001
+2) Password: @001abcd
+
+PROJECT SUMMARY:
+The Java Application, Event Planner, contains two panels, first is for admins and second is for users.
+Admins will login to their account, there they can manage events i.e. create, update and delete events. Admins can
+manage the participants as well and can add news related to the events. Admins can also update their details i.e.
+their account password and name.
+The users can create account then login to their accounts, there they can register for different events, they can
+view the events they are registered for and can also cancel registration. Users can view news update. User can also
+edit their account details i.e. their account email, name and password.
+Both users and admins can logout of their account and can also delete their account.
